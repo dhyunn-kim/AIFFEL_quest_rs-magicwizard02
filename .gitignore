@@ -52,4 +52,4 @@ images.tar
 *.vocab
 
 Exploration/Ex6/results/
-*.pkl
+*.pkl*.pkl
