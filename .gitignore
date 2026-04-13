@@ -50,3 +50,6 @@ images.tar
 
 *.log
 *.vocab
+
+Exploration/Ex6/results/
+*.pkl
